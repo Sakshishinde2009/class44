@@ -14,7 +14,7 @@ function preload() {
   fuelImage = loadImage("./assets/fuel.png");
   powerCoinImage = loadImage("./assets/goldCoin.png");
 }
-
+  
 //BP
 function setup() {
   canvas = createCanvas(windowWidth, windowHeight);
